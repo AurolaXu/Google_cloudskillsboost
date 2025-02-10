@@ -1,4 +1,4 @@
-#Predict Taxi Fare with a BigQuery ML Forecasting Model
+#PLAB 2 - Predict Visitor Purchases with a Classification Model in BigQuery ML
 #Task 1. Explore ecommerce data
 # Question: Out of the total visitors who visited our website, what % made a purchase?
 WITH visitors AS(
