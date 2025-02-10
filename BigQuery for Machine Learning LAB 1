@@ -1,4 +1,4 @@
-#LAB 1 
+#LAB 1 - Getting Started with BigQuery ML
 
 # Create a model - standardSQL
 CREATE OR REPLACE MODEL `bqml_lab.sample_model`
